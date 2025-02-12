@@ -6,7 +6,7 @@
     <title>Kingdom Hearts</title>
     <style>
         body {
-            font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+            font-family: 'Times New Roman', Times, serif, sans-serif, sans-serif;
             background-color: #efefef;
             margin: 0;
             padding: 0;
@@ -61,12 +61,13 @@
                 <h2>Historia</h2>
                 <p>Kingdom Hearts es una serie de juegos de rol de acción que combina personajes y mundos de Disney con elementos de la saga Final Fantasy. La historia sigue a Sora, un joven portador de una llave espada, en una misión para proteger los mundos de la oscuridad.</p>
                 <img src="https://assetsio.gnwcdn.com/co30zf.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp" alt="Logo de Kingdom Hearts">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRniNLHiu2MjhB49DzOsS1LpCLdZKsmJ7Krsg&s" alt="Logo de Kingdom Hearts 2">
             </div>
             <div class="sezione">
                 <h2>Los personajes</h2>
                 <p>Los protagonistas principales incluyen a Sora, Riku, Kairi, Donald y Goofy. Cada uno tiene un papel único en la trama y las aventuras que enfrentan juntos.</p>
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFMqEXJ8nQShC7oq4gs5fnPHiyXomwc04uKw&s" alt="Sora de Kingdom Hearts"
-                  img src="" alt="Donald" >
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFMqEXJ8nQShC7oq4gs5fnPHiyXomwc04uKw&s" alt="Sora de Kingdom Hearts">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk7UKu5zYB4Cz7i0BCXB8lr0ZrKERqTNinCg&s" alt="Donald" >
             </div>
             <div class="sezione">
                 <h2>Juego</h2>
@@ -81,12 +82,15 @@
                 <p>La saga de *Kingdom Hearts* no se limita a los juegos principales, también existen varios spin-offs que expanden la historia y exploran nuevos personajes y mecánicas:</p>
                 <ul>
                     <li><strong>Kingdom Hearts: Chain of Memories</strong> (2004) – Un juego que sigue a Sora después de los eventos de *Kingdom Hearts*, centrado en la exploración de un castillo misterioso y un nuevo sistema de cartas.</li>
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLK_vD8gNIsGtO4ZtoW8XSFIhbOxPhMr-zPA&s" alt="Chain of Memories">
                     <li><strong>Kingdom Hearts: 358/2 Days</strong> (2009) – Este spin-off cuenta la historia de Roxas, el otro portador de la llave espada que comparte el mismo cuerpo que Sora, y su tiempo con la organización XIII.</li>
+                    <img src="https://i0.wp.com/bossrush.net/wp-content/uploads/2024/02/KH-358-2-Days-Deserved-Proper-Remake.jpg?resize=1200%2C1080&ssl=1" alt="358/2days">
                     <li><strong>Kingdom Hearts: Birth by Sleep</strong> (2010) – Un título precuela que explora los orígenes de la llave espada y la historia de tres nuevos personajes: Terra, Aqua y Ventus.</li>
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0eTD4ygdR33_Bk7qRHnAHwewa8RK_l0RPew&s" alt="Birth by sleep">
                     <li><strong>Kingdom Hearts: Dream Drop Distance</strong> (2012) – Un juego que sigue a Sora y Riku mientras entrenan para convertirse en maestros de la llave espada y enfrentan nuevas amenazas.</li>
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1_84PZqyMTJ_fHUE3zCpIgk_xOW8z4yEMIQ&s" alt="Dream Drop Distance">
                     <li><strong>Kingdom Hearts: Re:coded</strong> (2010) – Un remake de *Kingdom Hearts Coded*, que se centra en la historia de los datos de Sora y cómo afectan la realidad.</li>
-                </ul>
-                <img src="https://assets-prd.ignimgs.com/2022/01/18/kingdom-hearts-birth-by-sleep-button-crop-1642535836197.jpg" alt="Kingdom Hearts: Birth by Sleep">
+                    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1tq6.jpg" alt="re coded"> 
             </div>
         </section>
     </main>
