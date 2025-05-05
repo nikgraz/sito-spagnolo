@@ -2,6 +2,17 @@
 # Docs Directory
 
 This directory is intended to hold the Jekyll site files.
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Build Jekyll site
+        run: |
+          cd docs
+          bundle exec jekyll build
 
 ## Getting Started
 
