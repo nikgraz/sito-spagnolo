@@ -1,7 +1,5 @@
 # sito-spagnolo
 # Docs Directory
-
-This directory is intended to hold the Jekyll site files.
 jobs:
   build:
     runs-on: ubuntu-latest
