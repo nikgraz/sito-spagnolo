@@ -12,7 +12,7 @@
             padding: 0;
         }
         header {
-            background-color: #1d1d1d;
+            background-color: #000000;
             color: rgb(185, 105, 105);
             text-align: center;
             padding: 20px;
@@ -21,15 +21,15 @@
             padding: 20px;
         }
         h1 {
-            color: #000000;
+            color: #faab01;
         }
         .contenuto {
             display: flex;
-            justify-content: center;
-            flex-wrap: wrap;
+            flex-wrap: wrap; /* Permette agli elementi di andare su una nuova riga se non c'è spazio */
+            justify-content: space-between; /* Aggiunge spazio tra i riquadri */
         }
         .sezione {
-            width: 22%;
+            width: 23%; /* Ridotto per fare spazio a 4 riquadri orizzontali */
             margin: 10px;
             background-color: white;
             padding: 10px;
@@ -37,16 +37,18 @@
             box-shadow: 0 0 10px rgba(22, 0, 83, 0.555);
         }
         .sezione img {
-            width: 100%;
+            width: 65%; /* Riduce la larghezza delle immagini */
+            max-width: 300px;
+            height: auto;
             border-radius: 5px;
         }
         footer {
-            background-color: #1d1d1d;
+            background-color: #000000;
             color: white;
             text-align: center;
             padding: 10px;
             position: fixed;
-            width: 100%;
+            width: 65%;
             bottom: 0;
         }
         a {
